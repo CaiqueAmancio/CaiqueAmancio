@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaiqueAmancio
+- 👋 Olá, sou @CaiqueAmancio
 - 👀 Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Carapicuíba;
 - 🌱 Atualmente estou aprendendo um pouco de algumas das prcipais linguagens de programação do mercado atual, focando em  .Net  C# ;
 - 💞️ Estou aqui para colaborar com exercícios e problemas diversos de acordo meu nível de estudo em programação tanto Estruturada como Orientada a Objetos;
